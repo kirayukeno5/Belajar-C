@@ -1,0 +1,2 @@
+# Belajar-C
+kumpulan script
