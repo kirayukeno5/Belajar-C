@@ -1,2 +1,2 @@
 # Belajar-C
-kumpulan script
+• Belajar bahasa C dari kampus
